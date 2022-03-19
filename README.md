@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm `jamie-the-ducc`!
+- 🔭 I’m currently working on a Discord bot :>
+- 🌱 I’m currently learning Python <img src="https://cdn.discordapp.com/emojis/954817850562969620.webp?size=16&amp;quality=lossless">
+- 📫 How to reach me: Discord (`[Jam!3]#4466`)
+- 😄 Pronouns: any pronouns, but mainly they/she
+- ⚡ Fun fact: I started programming in 2020 :]
 
 <!--
 **jamie-the-ducc/jamie-the-ducc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
