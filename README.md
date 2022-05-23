@@ -1,7 +1,7 @@
 ### Hi, I'm `jamie-the-ducc`!
 - 🔭 I’m currently working on a Discord bot :>
 - 🌱 I’m currently learning Python <img src="https://cdn.discordapp.com/emojis/954817850562969620.webp?size=16&amp;quality=lossless">
-- 📫 How to reach me: Discord (`[Jam!3]#4466`)
+- 📫 How to reach me: Discord (`boxhead#4466`) -- `604855154365300753`
 - 😄 Pronouns: any pronouns, but mainly they/she
 - ⚡ Fun fact: I started programming in 2020 :]
 
